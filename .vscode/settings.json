@@ -1,0 +1,9 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/.",
+    "files.associations": {
+        "*.xml": "xml",
+        "*.mod": "go",
+        "iostream": "cpp",
+        "memory_resource": "cpp"
+    }
+}
